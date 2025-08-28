@@ -1,0 +1,23 @@
+{
+  "config": {
+    "chainId": 1337,
+    "homesteadBlock": 0,
+    "eip150Block": 0,
+    "eip155Block": 0,
+    "eip158Block": 0,
+    "byzantiumBlock": 0,
+    "londonBlock": 0,
+    "clique": {
+      "period": 15,
+      "epoch": 30000
+    }
+  },
+  "alloc": {
+    "0x8Cd34E8B66890003e2355F6837b4DbEaACBBD36A": { "balance": "1000000000000000000000" },
+    "0x9e95F24f6011D3f2693598380e7b19cC051644Ea": { "balance": "1000000000000000000000" }
+  },
+  "coinbase": "0x0000000000000000000000000000000000000000",
+  "difficulty": "1",
+  "gasLimit": "8000000",
+  "extraData": "0x0"
+}
